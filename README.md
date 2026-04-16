@@ -2,12 +2,6 @@
   <img src="banner.svg" alt="Vicente Castro - Full Stack Developer" width="100%"/>
 </div>
 
----
-
-> *Cuatro años de Odontología me enseñaron a diagnosticar bajo presión y a escuchar lo que el paciente no dice. Hoy hago lo mismo con el código.*
-
----
-
 ## ⚡ Stack
 
 <div align="center">
@@ -67,9 +61,9 @@ Desarrollador Full Stack con dominio en Python, React y Flask, que destaca por s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/www.linkedin.com/in/vicente-castro1)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d1f?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=4ade80)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=4ade80)](mailto:vicentecastroibarra@gmail.com)
 
 `// PICHILEMU · REGIÓN DE O'HIGGINS · CHILE`
 
