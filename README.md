@@ -61,7 +61,7 @@ Desarrollador Full Stack con dominio en Python, React y Flask, que destaca por s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/www.linkedin.com/in/vicente-castro1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://linkedin.com/in/https://www.linkedin.com/in/vicente-castro1/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d1f?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/https://github.com/VicenteCastroIb)
 [![Email](https://img.shields.io/badge/Email-0d1f0d?style=for-the-badge&logo=gmail&logoColor=4ade80)](mailto:vicentecastroibarra@gmail.com)
 
