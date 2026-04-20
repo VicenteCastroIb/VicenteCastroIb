@@ -45,17 +45,22 @@ Marketplace full stack con carrito de compras, MercadoPago, filtros y OAuth.
 ## 📡 Trayectoria
 
 ```
-[2026 →    ]  Analista Programador · DUOC UC
+[2026 →    ]  Analista Programador · DUOC UC · Azure Fundamentals · DevOps · SCRUM
 [2025–2026 ]  Full Stack Developer · 4Geeks Academy
-[2022–2025 ]  Odontología · UNAB  →  transición voluntaria a tech
-[2021–2022 ]  Atención al cliente · BancoEstado
 ```
 
 ---
 
 ## 💬 Sobre mí
 
-Desarrollador Full Stack con dominio en Python, React y Flask, que destaca por su capacidad para resolver problemas bajo presión, levantar requerimientos y sumar al trabajo colaborativo, forjadas en cuatro años de Odontología con atención clínica directa y la gestión autónoma demostrada en sus roles previos.
+Desarrollador Full Stack egresado de 4Geeks Academy y actualmente cursando Analista Programador Computacional en DUOC UC.
+
+Participé en el desarrollo de ProceTurn, plataforma B2B para gestión de turnos clínicos construida con React.js, Flask, PostgreSQL y JWT, con dashboard en tiempo real, calendario interactivo, autenticación por roles, chat integrado vía Twilio y sugerencias con IA (Gemini). Desarrollado en equipo bajo metodologías ágiles.
+
+Actualmente estoy certificandome en Azure Fundamentals, linea DevOps y SCRUM.
+
+Stack: Python · JavaScript · React.js · Flask · PostgreSQL · SQLAlchemy · JWT · Java · Git
+Busco mi primer rol como desarrollador donde pueda aportar desde el día uno y seguir creciendo profesionalmente.
 
 ---
 
